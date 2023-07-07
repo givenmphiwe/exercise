@@ -1,0 +1,28 @@
+{
+  "result": {
+    "country": "RSA",
+    "lifeTime": 120000,
+    "serviceCost": -17717,
+    "serviceCostPerKm": -0.15,
+    "maintenanceCost": -40137.5,
+    "maintenanceCostPerKm": -0.33,
+    "maintenanceAdditionalCost": 0,
+    "maintenanceAdditionalCostPerKm": 0,
+    "tyreCostPerKm": -0.09,
+    "tyreCost": -10800,
+    "fuelCostPerKm": -1,
+    "fuelCost": -120000,
+    "residualValue": 216394.51,
+    "residualValuePerKm": 1.8,
+    "depreciationValue": -110040.49,
+    "depreciationPerKm": -0.92,
+    "financeCost": -411363.71,
+    "financeCostPerKm": -3.43,
+    "financeCostBase": -338130.22,
+    "financeCostBasePerKm": -2.82,
+    "financeCostInterest": -73233.48,
+    "financeCostPerInterestKm": -0.61,
+    "insuranceCost": -78416.4,
+    "insuranceCostPerKm": -0.65
+  }
+}

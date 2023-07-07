@@ -1,0 +1,45 @@
+{
+  "attributes": {
+    "query_date": "7/5/2023 11:29:28 AM"
+  },
+  "result": {
+    "gmv": "G100M7V121",
+
+    "gCode": "100",
+
+    "mCode": "7",
+
+    "vCode": "121",
+
+    "variantId": "AE13JV"
+  },
+  "servicePlans": [
+    {
+      "interval": 15000,
+
+      "parts": 162,
+
+      "fluids": 684.8,
+
+      "labour": 616,
+
+      "sundries": 267,
+
+      "total": 1729.8
+    },
+
+    {
+      "interval": 30000,
+
+      "parts": 531.5,
+
+      "fluids": 943.3,
+
+      "labour": 1496,
+
+      "sundries": 267,
+
+      "total": 3237.8
+    }
+  ]
+}
