@@ -24,16 +24,16 @@ function Navbar() {
   return (
     <nav className={nav ? "nav active" : "nav"}>
       <Link to='main' className='logo' smooth={true} duration={2000}>
-        <img src={logo} alt='' />
+        <img src={logo} alt='logo.png' />
       </Link>
       <input className='menu-btn' type='checkbox' id='menu-btn'/>
       <label className='menu-icon' for='menu-btn'>
         <span className='nav-icon'></span>
       </label>
       <ul className='menu'>
-        <li><Link to="main" smooth={true} duration={2000}>Home</Link></li>
-        <li><Link to="products" smooth={true} duration={2000}>Charts</Link></li>
-        <li><Link to="about" smooth={true} duration={2000}>Service Plan</Link></li>
+        <li><Link onClick={() => navigate("/")} smooth={true} duration={2000}>Home</Link></li>
+        <li><Link to="graph" smooth={true} duration={2000}>Charts</Link></li>
+        <li><Link to="products" smooth={true} duration={2000}>Service Plan</Link></li>
         <li><Link onClick={() => navigate("/Tco")} smooth={true} duration={2000}>Cost of ownership</Link></li>
       </ul>
     </nav>

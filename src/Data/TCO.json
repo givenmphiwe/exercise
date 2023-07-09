@@ -1,4 +1,4 @@
-{
+[{
   "result": {
     "country": "RSA",
     "lifeTime": 120000,
@@ -26,3 +26,4 @@
     "insuranceCostPerKm": -0.65
   }
 }
+]

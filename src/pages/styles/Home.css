@@ -155,14 +155,15 @@ body {
     letter-spacing: 2px;
     color: #3d2514;
     font-size: 3rem;
+    margin-top: 20px;
 }
 #products p{
     font-family:'Bebas Neue';
     letter-spacing: 1px;
     color: #3d2514;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin-top: -10px ;
-    margin-bottom:35px ;
+    margin-bottom:39px ;
 }
 
 .a-container{

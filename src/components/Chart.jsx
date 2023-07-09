@@ -1,5 +1,5 @@
 import { Bar } from "react-chartjs-2";
-import { Chart } from "chart.js/auto";
+import { Chart } from "chart.js/auto"; 
 
 const options = {
     plugins:{
@@ -31,7 +31,7 @@ const data = {
 function Charts() {
     
     return(
-        <div className="Chart">
+        <div id="graph" className="Chart">
             <Bar options={options} data={data}/>
         </div>
     )
